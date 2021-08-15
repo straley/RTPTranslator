@@ -105,13 +105,15 @@ setTimeout(()=>{
       </div>
     </div> 
   `
+
+  $(".rmp-cc-cue")[0].innerText = ""
 }, 500)
 
 setInterval(()=>{
   try {
     const newText = $(".rmp-cc-cue")[0].innerText
     const time = $(".rmp-time-elapsed-text")[0].innerText
-    if (newText === lastText) {
+    if (newText.trim() === lastText.trim()) {
       return
     }
     translate(time, newText)

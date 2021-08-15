@@ -10,3 +10,17 @@ A few caveats:
 - This will likely break if the RTP site is ever changed
 - You can only translate 500,000 characters per month on the free account.  It's your responsibility to make sure this is working properly.  I'm not responsible for defects that might cause you to use up your limit too quickly.
 You can see an example of how this works at https://www.loom.com/share/cf9f547c9592458188cf11a392802275
+
+# How To
+- Copy the code at https://raw.githubusercontent.com/straley/RTPTranslator/main/translate.js (adding your DEEPL API key).
+- Go to https://rtp.pt/play
+- Find programming where the [CC] button appears in the playback video
+- Open the developer console and paste in the code
+
+# Notes
+- Sometimes it goes crazy if the page isn't fully loaded and you'll see lots of text repeating in the console.  If this happens, reload the page and paste again.
+- You do not need to turn on CC before you run this, it'll do that for you
+- If stores the translations locally in your local webstorage, if you ever want to do anything with them
+
+# Help
+- Turn this into a Google Chrome Extension!

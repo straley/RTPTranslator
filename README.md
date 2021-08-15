@@ -24,3 +24,19 @@ You can see an example of how this works at https://www.loom.com/share/cf9f547c9
 
 # Help
 - Turn this into a Google Chrome Extension!
+
+# Examples
+A few RTP.PT programs that have CCs are:
+
+- https://www.rtp.pt/play/p8942/e552670/hoteis-extraordinarios-a-vida-nos-bastidores
+- https://www.rtp.pt/play/zigzag/p7809/e550599/muito-fora-2
+- https://www.rtp.pt/play/p8902/e546483/mulheres-em-portugal
+- https://www.rtp.pt/play/p7759/e521337/conta-me-como-foi
+- https://www.rtp.pt/play/p5794/e515237/bombordo-vida-das-berlengas
+- https://www.rtp.pt/play/p8670/e558895/big-cities
+- https://www.rtp.pt/play/p9086/e559371/the-balmoral-hotel-an-extraordinary-year
+- https://www.rtp.pt/play/p8707/e558643/anthropocene-the-rise-of-humans
+- https://www.rtp.pt/play/p8940/e558911/comecar-de-novo
+- https://www.rtp.pt/play/p8633/e562220/filhos-do-sol
+- https://www.rtp.pt/play/zigzag/p9103/e562206/leo-da-vinci
+- https://www.rtp.pt/play/p9123/e562394/europes-new-wild
